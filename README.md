@@ -1,6 +1,6 @@
 @jakejmedeiros - jake medeiros <br/>
-∞ northeastern university | computer science and physics <br/>
-∞ interested in blockchain, artifical intelligence, and software development <br/> 
+∞ northeastern university | computer science and physics + ethics minor <br/>
+∞ i like computers <br/> 
 
 <!---
 jakejmedeiros/jakejmedeiros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
