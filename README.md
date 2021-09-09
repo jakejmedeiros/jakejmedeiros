@@ -1,5 +1,5 @@
 @jakejmedeiros - jake medeiros <br/>
-∞ northeastern university | computer science and physics + ethics minor <br/>
+∞ northeastern university | computer science and physics <br/>
 ∞ i like computers <br/> 
 
 <!---
