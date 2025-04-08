@@ -1,6 +1,5 @@
 @jakejmedeiros - jake medeiros <br/>
-∞ northeastern university | computer science and physics <br/>
-∞ i like computers <br/> 
+
 
 <!---
 jakejmedeiros/jakejmedeiros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
